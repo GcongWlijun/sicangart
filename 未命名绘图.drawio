@@ -124,6 +124,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="RTG8QljmFdAJU4AKMX4T-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RTG8QljmFdAJU4AKMX4T-3" target="6d250d948d6a1778-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTG8QljmFdAJU4AKMX4T-3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.manualSwitch2;elSwitchState=off;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="120" y="50" width="75" height="18" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
